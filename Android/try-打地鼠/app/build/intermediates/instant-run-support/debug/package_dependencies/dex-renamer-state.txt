@@ -1,0 +1,16 @@
+#Sun Jun 18 15:40:42 CST 2017
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+base.4=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_6c5933aa9035b00d8063f98f496e22d62e3cad37
+renamed.0=classes5.dex
+base.3=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidAP_dd2625b7088af43e64b04bb96241b48f5c26bbc6
+base.2=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidkb_b148af5f96973d88d27616a7e91c968d41657135
+base.1=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidkz_8a033d9c04155e99751d1a2e970d32a8a7711183
+base.0=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidts_ce1f52040db752db708ebf4369d87d6daae1ef9d
+file.4=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_6c5933aa9035b00d8063f98f496e22d62e3cad37/classes.dex
+file.3=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidAP_dd2625b7088af43e64b04bb96241b48f5c26bbc6/classes.dex
+file.2=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidkb_b148af5f96973d88d27616a7e91c968d41657135/classes.dex
+file.1=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidkz_8a033d9c04155e99751d1a2e970d32a8a7711183/classes.dex
+file.0=/Users/apple/AndroidStudioProjects/try/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidts_ce1f52040db752db708ebf4369d87d6daae1ef9d/classes.dex

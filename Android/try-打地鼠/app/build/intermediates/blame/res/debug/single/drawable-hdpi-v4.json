@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_menu.xml",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/drawable-hdpi/btn_menu.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rotate_anim.xml",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/drawable-hdpi/rotate_anim.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_menu.xml",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/drawable-hdpi/btn_menu.xml"
+    }
+]

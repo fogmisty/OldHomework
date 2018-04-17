@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/try/app/libs/androidts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2db53df2d23bf20433b3200423a27191ab70d1e">
+        <dex dex="/Users/apple/AndroidStudioProjects/try/app/build/intermediates/pre-dexed/debug/androidts_ce1f52040db752db708ebf4369d87d6daae1ef9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/apple/AndroidStudioProjects/try/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_6c5933aa9035b00d8063f98f496e22d62e3cad37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/try/app/libs/androidAP.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c4919e96d556764f0696577ef2e08c085ba497f">
+        <dex dex="/Users/apple/AndroidStudioProjects/try/app/build/intermediates/pre-dexed/debug/androidAP_dd2625b7088af43e64b04bb96241b48f5c26bbc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/try/app/libs/androidkz.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e998af686dc247ac19e08976139a40decda50c1">
+        <dex dex="/Users/apple/AndroidStudioProjects/try/app/build/intermediates/pre-dexed/debug/androidkz_8a033d9c04155e99751d1a2e970d32a8a7711183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/try/app/libs/androidkb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f35c4dd4ca08102f5429babfaed1f7510744b8d">
+        <dex dex="/Users/apple/AndroidStudioProjects/try/app/build/intermediates/pre-dexed/debug/androidkb_b148af5f96973d88d27616a7e91c968d41657135.jar" />
+    </item>
+
+</items>

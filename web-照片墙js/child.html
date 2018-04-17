@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<meta charset="UTF-8"><!--中文乱码-->
+<html>
+
+<head>
+<style>
+.title1 {
+    background-color:#E9E9E9;
+    margin_buttom:20px;
+    padding:20px;
+} 
+.font1 {
+    background-color: #9C9C9C; 
+	width: 100%; 
+	height: auto; 
+	margin-left: 80px; 
+	margin-top: 20px;
+} 
+    
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container img{
+    width: 19%;
+    margin-right: 5%;
+    margin-bottom: 30px;
+}
+#popup{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: none;
+}
+#popup .bg{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+}
+@media \0screen\,screen\9 {
+    #popup .bg{
+        background-color:#000000;
+        filter:Alpha(opacity=50);
+        position:static;
+    }
+    #popup .bg img{
+        position: relative;
+    }
+}
+#popup img{
+    max-width: 100%;
+    max-height: 100%;
+}
+</style>
+
+</head>
+
+
+<body style="color: #CCCCCC">
+
+<div class="title1">
+<h1 style="color:#383838; font-size: 42px">趣童年</h1>
+<p style="color:#5B5B5B">稚子牵衣问：归来何太迟共谁争岁月，赢得鬓边丝。</p>
+</div> 
+
+<div style="background-color: #9C9C9C; width: 100%; height: 10px;">
+</div>
+<div style="background-color: white; width: 100%; height: 5px;">
+</div>
+<div style="background-color: #9C9C9C; width: 100%; height: 10px;">
+</div>
+
+<table>
+<tr>
+<td style="width: 400px">
+<div class="font1">
+	<p style="color: white; font-size: 18px;">
+        再见了我那童年的玩伴，再见了我那没心没肺的童年。岁月似天空里一划
+        而过的流星，夹带着我们童年的岁月消失在眼前，留在心底。虽然时间早已过去，
+        但我童年的你们将是我人生中最经典的回忆！</p>
+</div>
+</td>
+<td>
+<!--开始图片-->
+<style type="text/css">  
+    #liu{  
+        width:280px;  
+        height: 280px;
+		margin-top: 20px;
+		margin-left: 60%;
+        background: url(images/child.png) no-repeat;  
+        border-radius:140px;  
+        -webkit-animation:run 6s linear 0s infinite alternate;  
+    }  
+
+    #liu:hover{  
+        -webkit-animation-play-state:paused;  
+    }  
+
+
+    @-webkit-keyframes run{  
+        from{  
+            -webkit-transform:rotate(-20deg);  
+        }  
+        to{  
+            -webkit-transform:rotate(20deg);  
+        }  
+    } 
+</style>
+    <div id = "liu"></div>
+</td>
+</tr>
+</table> 
+    
+    
+<div style="background-color: #9C9C9C; width: 100%; height: 10px;">
+</div>
+<div style="background-color: white; width: 100%; height: 5px;">
+</div>
+<div style="background-color: #9C9C9C; width: 100%; height: 10px;">
+</div>
+
+<br/>
+    
+<div id="container" class="container">
+    <img src="images/p1.jpg" alt=""/>
+    <img src="images/p2.jpg" alt=""/>
+    <img src="images/p3.jpg" alt=""/>
+    <img src="images/p4.jpg" alt=""/>
+    <img src="images/p5.jpg" alt=""/>
+    <img src="images/p6.jpg" alt=""/>
+    <img src="images/p7.jpg" alt=""/>
+    <img src="images/p8.jpg" alt=""/>
+</div>
+<div id="popup">
+    <div class="bg"><img src="" alt=""/></div>
+</div>
+
+<script type="text/javascript" src="trydong.js"></script> 
+
+<p>
+<a href="main.html">
+<dfn title="返回主界面">回溯</dfn>
+</a>    
+</p>
+</body>
+</html>

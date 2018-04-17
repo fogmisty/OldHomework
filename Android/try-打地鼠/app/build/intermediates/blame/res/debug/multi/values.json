@@ -1,0 +1,355 @@
+[
+    {
+        "outputFile": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 41,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 43,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 43,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 44,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 44,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 40,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 40,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endLine": 26,
+                    "endColumn": 22,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endLine": 47,
+                        "endColumn": 22,
+                        "endOffset": 1753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 47,
+                    "endColumn": 22,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 26,
+                        "endColumn": 22,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endLine": 68,
+                    "endColumn": 22,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endLine": 68,
+                        "endColumn": 22,
+                        "endOffset": 2546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endColumn": 50,
+                    "endOffset": 2585
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 50,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2590,
+                    "endColumn": 60,
+                    "endOffset": 2646
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 60,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2651,
+                    "endColumn": 57,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 43,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 44,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 40,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endLine": 19,
+                    "endColumn": 56,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endLine": 33,
+                        "endColumn": 56,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endLine": 33,
+                    "endColumn": 56,
+                    "endOffset": 1712
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 19,
+                        "endColumn": 56,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endLine": 47,
+                    "endColumn": 56,
+                    "endOffset": 2453
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endLine": 47,
+                        "endColumn": 56,
+                        "endOffset": 2444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2458,
+                    "endColumn": 50,
+                    "endOffset": 2504
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2509,
+                    "endColumn": 60,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 57,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+<mdl-layout mdl-layout-fixed-header>
+  <mdl-layout-header>
+    <mdl-layout-header-row>
+      <mdl-layout-title>智能公交评价系统</mdl-layout-title>
+      <mdl-layout-spacer></mdl-layout-spacer>
+      <!-- Navigation. We hide it in small screens. -->
+      <nav class="mdl-navigation" *ngIf="auth?.user?.username !== null">
+        <a class="mdl-navigation__link" routerLink="todo">评价</a>
+      </nav>
+      <nav class="mdl-navigation" *ngIf="auth?.user?.username !== null">
+        <a class="mdl-navigation__link">{{auth.user.username}}</a>
+      </nav>
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" *ngIf="auth?.user?.username === null" (click)="login()">
+          登录
+        </a>
+        <a class="mdl-navigation__link" *ngIf="auth?.user?.username !== null" (click)="logout()">
+          注销
+        </a>
+      </nav>
+    </mdl-layout-header-row>
+  </mdl-layout-header>
+  <mdl-layout-drawer>
+    <mdl-layout-title>{{title}}</mdl-layout-title>
+    <nav class="mdl-navigation" *ngIf="auth?.user?.username !== null">
+      <img src="../assets/login_default_bg.png "/>
+    </nav>
+  </mdl-layout-drawer>
+  <mdl-layout-content class="content">
+    <router-outlet></router-outlet>
+  </mdl-layout-content>
+</mdl-layout>

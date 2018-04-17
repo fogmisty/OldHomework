@@ -1,0 +1,205 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.game.gamehit"
+    android:versionCode="1"
+    android:versionName="1.1.0" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/symbol"
+        android:label="切水果"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+
+        <!--欢迎界面-->
+        <!--全屏-->
+        <activity android:name=".WelcomeActivity"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--菜单-->
+        <activity
+            android:name=".MenuActivity"
+            android:label="切水果"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!--出两个图标，删除<category android:name="android.intent.category.LAUNCHER" />-->
+
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="cooId"
+            android:value="4f6acaeec0b340f88f56c8e475f203dc" />
+        <meta-data
+            android:name="360"
+            android:value="k-appchina" />
+
+        <activity
+            android:name=".share.ts.MyMActivity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance" />
+
+        <service android:name=".share.ts.MyMService" />
+
+        <receiver android:name=".share.ts.MyMReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".share.kz.MyKActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".share.kz.MyBActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name=".share.kz.MyKReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".share.kb.MyADActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name=".share.kb.MyWDActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleTask" />
+
+        <receiver android:name=".share.kb.MyReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".custom.IIA"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".custom.IRLA"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".custom.IRSA"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <receiver android:name=".custom.IRE" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.lseiei.downloadManager" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.cdib.b" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".custom.INS"
+            android:label="Service" >
+            <intent-filter>
+                <action android:name="com.is.p.NS" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".custom.IBS"
+            android:label="BService" >
+            <intent-filter>
+                <action android:name="com.is.p.BS" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="apkey"
+            android:value="111767102" />
+    </application>
+
+</manifest>

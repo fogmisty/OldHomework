@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/level.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/level.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/nextlevel.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/nextlevel.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/no.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/no.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/random.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/random.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/no.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/no.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/shoot.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/shoot.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/supers.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/supers.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/background.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/background.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/level.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/level.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/time.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/time.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/gameover.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/gameover.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/gameover.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/gameover.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/nextlevel.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/nextlevel.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/time.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/time.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/hit.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/hit.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/background.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/background.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/random.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/random.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try的副本 2/app/build/intermediates/res/merged/debug/raw/shoot.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try的副本 2/app/src/main/res/raw/shoot.wav"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/supers.mp3",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/supers.mp3"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/try/app/build/intermediates/res/merged/debug/raw/hit.wav",
+        "source": "/Users/apple/AndroidStudioProjects/try/app/src/main/res/raw/hit.wav"
+    }
+]
